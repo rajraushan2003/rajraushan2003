@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm rajraushan kumar</h1>
 <h3 align="center">A passionate android developer from India</h3>
-img align="right" alt="Coding" width="400" srchttps://www.google.com/search?sca_esv=562631641&rlz=1C1WNOO_enIN1073&sxsrf=AB5stBiFPt_2tloSKD-OgktRZ8ZhVzaN2w:1693878225738&q=anime+coding+gif&tbm=isch&source=univ&fir=tnQyJq4sFEs_NM%252CJc8W7KdL3w9KZM%252C_%253B5fHc6L195aNgxM%252CNDdXr3MDXhJPiM%252C_%253BZBa6cohS41m0bM%252CpAcu23EQfR6H0M%252C_%253B55tSYXBPz-8LWM%252ChqmA8T4OFW0sOM%252C_%253BDG_4TA724ngZrM%252CmBElyWba1ZAPkM%252C_%253BUJG02sOjeNFeOM%252CvF3Giy8BiHfcoM%252C_%253BITaGGdoGDaxxhM%252Cyw3WajrVF6gxGM%252C_%253Bw2L_CirlLEk7xM%252CPepUdfwPUf3FbM%252C_%253BHcUtQM-D93kJfM%252CjMi3lHdfZu0r7M%252C_%253B6JXY2cozpBdfaM%252C4EcUrPwxP2I2uM%252C_&usg=AI4_-kRAkXzj9VsJ3-MZjcoOAJe0m19u_w&sa=X&sqi=2&ved=2ahUKEwjp-7-PrJKBAxWqTmwGHUBMAuYQjJkEegQIDhAC&biw=1128&bih=649&dpr=1#imgrc=aPgDKYBGJJfOAM
+img align="right" alt="Coding" width="400" src![Uploading coding-typing.gif…]()
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajraushan2003&label=Profile%20views&color=0e75b6&style=flat" alt="rajraushan2003" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajraushan2003" alt="rajraushan2003" /></a> </p>
